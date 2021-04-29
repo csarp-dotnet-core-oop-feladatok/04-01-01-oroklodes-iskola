@@ -38,3 +38,4 @@ Jegy János eszik.
 Jegy János tanít 22 órát.
 Jegy János alszik.
 ```
+![image](https://user-images.githubusercontent.com/6060514/116530493-65429300-a8de-11eb-8d8d-1853b3eb33ea.png)
